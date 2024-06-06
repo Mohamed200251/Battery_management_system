@@ -1,2 +1,2 @@
 Battery managemement system.
-See Readme.doc file.
+See Readme.pdf file.
