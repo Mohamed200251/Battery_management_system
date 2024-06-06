@@ -1,2 +1,2 @@
-Project: Battery managemement system.
-This project
+Battery managemement system.
+See Readme.doc file.
